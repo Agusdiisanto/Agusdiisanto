@@ -5,11 +5,8 @@
   
 
 - 🌍 I'm based in Argentina
-  
-  
 
 - ⚡ I'm enjoy going to the gym and watching series.  
-  
 
 - ✉️ You can contact me at agusdisanto99@gmail.com  
   
@@ -130,5 +127,3 @@ Due to the intense competition in the market, product prices are not displayed d
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
